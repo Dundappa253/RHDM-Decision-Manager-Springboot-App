@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.kie:kie-server-spring-boot-starter">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kie/kie-server-spring-boot-starter/kie-server-spring-boot-starter-.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kie/kie-server-spring-boot-starter/kie-server-spring-boot-starter--javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kie/kie-server-spring-boot-starter/kie-server-spring-boot-starter--sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
